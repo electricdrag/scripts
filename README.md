@@ -1,2 +1,2 @@
 # scripts
-My automatation scripts
+Все скрипты размещены "как есть".
